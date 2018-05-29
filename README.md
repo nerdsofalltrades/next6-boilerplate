@@ -1,5 +1,7 @@
 # Next.js Boilerplate
 
+[![Build Status](https://api.travis-ci.org/nerdsofalltrades/next6-boilerplate.svg?branch=master)](https://travis-ci.org/nerdsofalltrades/next6-boilerplate)
+
 A boilerplate for Next.js projects including all the bad-ass technologies
 needed to build maintainable software.
 

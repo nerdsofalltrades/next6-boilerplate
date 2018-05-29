@@ -1,0 +1,10 @@
+.next
+.idea
+.vscode
+.env
+out
+dist
+coverage
+node_modules/
+
+

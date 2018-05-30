@@ -17,8 +17,7 @@ export default class extends React.Component<IProps, IState> {
     };
   }
 
-  componentWillReceiveProps(props) {
-    const features = { ...props.features };
+  componentWillReceiveProps({ features }) {
     this.setState({
       features
     });

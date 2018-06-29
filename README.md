@@ -1,6 +1,6 @@
 # Next.js Boilerplate
 
-[![Build Status](https://api.travis-ci.org/nerdsofalltrades/next6-boilerplate.svg?branch=master)](https://travis-ci.org/nerdsofalltrades/next6-boilerplate)
+[![Build Status](https://api.travis-ci.org/nerdsofalltrades/next6-boilerplate.svg?branch=master)](https://travis-ci.org/nerdsofalltrades/next6-boilerplate) [![Greenkeeper badge](https://badges.greenkeeper.io/nerdsofalltrades/next6-boilerplate.svg)](https://greenkeeper.io/)
 
 A boilerplate for Next.js projects including all the bad-ass technologies
 needed to build maintainable software.
